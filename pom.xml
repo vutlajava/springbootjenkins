@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>springbootjenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>springbootjenkins</name>
 	<description>Demo project for Spring Boot Jenkins Project</description>
 	<url/>
